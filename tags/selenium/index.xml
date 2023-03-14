@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selenium on Sonal&#39;s Blog :tada:</title>
+    <link>https://sonaldwivedi.github.io/tags/selenium/</link>
+    <description>Recent content in Selenium on Sonal&#39;s Blog :tada:</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2022 Sonal Dwivedi</copyright>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sonaldwivedi.github.io/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handling Login Popups in Selenium WebDriver and Java</title>
+      <link>https://sonaldwivedi.github.io/post/handling-popups-selenium-java/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sonaldwivedi.github.io/post/handling-popups-selenium-java/</guid>
+      <description>Login Popup are a common sight in web applications. Learn how to handle these Login Popus in Selenium Webdriver and Java effectively.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Role of Thread.sleep in Selenium</title>
+      <link>https://sonaldwivedi.github.io/post/athread-sleep/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sonaldwivedi.github.io/post/athread-sleep/</guid>
+      <description>This guide discusses the role of Thread Sleep Command in Selenium Java, how and when to use it effectively.</description>
+    </item>
+    
+    <item>
+      <title>Jenkins integration with Bitbucket for Selenium project</title>
+      <link>https://sonaldwivedi.github.io/post/jenkins-bitbucket-selenium/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sonaldwivedi.github.io/post/jenkins-bitbucket-selenium/</guid>
+      <description>Shows you how to integrate you Jenkins CI with a Bitbucket repo, which you can use in your Selenium project</description>
+    </item>
+    
+    <item>
+      <title>Create and Read config.properties file in Java for Selenium</title>
+      <link>https://sonaldwivedi.github.io/post/create-read-configproperties-java-selenium/</link>
+      <pubDate>Sun, 27 May 2018 14:04:07 +0530</pubDate>
+      
+      <guid>https://sonaldwivedi.github.io/post/create-read-configproperties-java-selenium/</guid>
+      <description>Describes the process of creating and reading config.properties file</description>
+    </item>
+    
+  </channel>
+</rss>

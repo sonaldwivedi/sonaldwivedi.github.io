@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quality-assurance on Sonal&#39;s Blog :tada:</title>
+    <link>https://sonaldwivedi.github.io/tags/quality-assurance/</link>
+    <description>Recent content in quality-assurance on Sonal&#39;s Blog :tada:</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2022 Sonal Dwivedi</copyright>
+    <lastBuildDate>Mon, 04 Jul 2022 13:02:06 +0530</lastBuildDate><atom:link href="https://sonaldwivedi.github.io/tags/quality-assurance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playwright - Web Automation Made Easier</title>
+      <link>https://sonaldwivedi.github.io/post/playwright-web-automation/</link>
+      <pubDate>Mon, 04 Jul 2022 13:02:06 +0530</pubDate>
+      
+      <guid>https://sonaldwivedi.github.io/post/playwright-web-automation/</guid>
+      <description>An introduction to the hot cake in town - Playwright!</description>
+    </item>
+    
+  </channel>
+</rss>
