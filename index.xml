@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to my blog! :tada: on Sonal&#39;s Blog :tada:</title>
-    <link>https://sonaldwivedi.github.io/</link>
+    <link>https://hipenguin.in/</link>
     <description>Recent content in Welcome to my blog! :tada: on Sonal&#39;s Blog :tada:</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <copyright>&amp;copy; 2022 Sonal Dwivedi</copyright>
-    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sonaldwivedi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2023 Sonal Dwivedi</copyright>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hipenguin.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handling Login Popups in Selenium WebDriver and Java</title>
-      <link>https://sonaldwivedi.github.io/post/handling-popups-selenium-java/</link>
+      <link>https://hipenguin.in/post/handling-popups-selenium-java/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/handling-popups-selenium-java/</guid>
+      <guid>https://hipenguin.in/post/handling-popups-selenium-java/</guid>
       <description>Login Popup are a common sight in web applications. Learn how to handle these Login Popus in Selenium Webdriver and Java effectively.</description>
     </item>
     
     <item>
       <title>Page Object Model with Playwright &#43; Java</title>
-      <link>https://sonaldwivedi.github.io/post/playwright-java-page-object-model/</link>
+      <link>https://hipenguin.in/post/playwright-java-page-object-model/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/playwright-java-page-object-model/</guid>
+      <guid>https://hipenguin.in/post/playwright-java-page-object-model/</guid>
       <description>Learn the basics of creating a framework for POM in Playwright and Java.</description>
     </item>
     
     <item>
       <title>Download file using Playwright Java</title>
-      <link>https://sonaldwivedi.github.io/post/playwright-java-download-file/</link>
+      <link>https://hipenguin.in/post/playwright-java-download-file/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/playwright-java-download-file/</guid>
+      <guid>https://hipenguin.in/post/playwright-java-download-file/</guid>
       <description>Article showing how to handle downloading of files in Playwright.</description>
     </item>
     
     <item>
       <title>Understanding Role of Thread.sleep in Selenium</title>
-      <link>https://sonaldwivedi.github.io/post/athread-sleep/</link>
+      <link>https://hipenguin.in/post/athread-sleep/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/athread-sleep/</guid>
+      <guid>https://hipenguin.in/post/athread-sleep/</guid>
       <description>This guide discusses the role of Thread Sleep Command in Selenium Java, how and when to use it effectively.</description>
     </item>
     
     <item>
       <title>Playwright Inspector | Playwright Debugging</title>
-      <link>https://sonaldwivedi.github.io/post/playwright-inspect/</link>
+      <link>https://hipenguin.in/post/playwright-inspect/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/playwright-inspect/</guid>
+      <guid>https://hipenguin.in/post/playwright-inspect/</guid>
       <description>See how to record and run your first script in Java using Playwright CLI.</description>
     </item>
     
     <item>
       <title>Playwright - Web Automation Made Easier</title>
-      <link>https://sonaldwivedi.github.io/post/playwright-web-automation/</link>
+      <link>https://hipenguin.in/post/playwright-web-automation/</link>
       <pubDate>Mon, 04 Jul 2022 13:02:06 +0530</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/playwright-web-automation/</guid>
+      <guid>https://hipenguin.in/post/playwright-web-automation/</guid>
       <description>An introduction to the hot cake in town - Playwright!</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://sonaldwivedi.github.io/about-me/</link>
+      <link>https://hipenguin.in/about-me/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/about-me/</guid>
+      <guid>https://hipenguin.in/about-me/</guid>
       <description>This is my personal journal where I write articles on QA and Automation. I enjoy the world of Quality Analysis and I have been a part of this domain since more than 12 years. I have been contributing towards the community by writing articles on various tools and concepts in the QA domain, mainly on web and mobile automation topics like Selenium, Java, TestNG, Karate and Reporting.
 For any feedback or comments regarding my blog, you can connect with me on my email: sonaldwivedi[@]hotmail[.]com</description>
     </item>
     
     <item>
       <title>Jenkins integration with Bitbucket for Selenium project</title>
-      <link>https://sonaldwivedi.github.io/post/jenkins-bitbucket-selenium/</link>
+      <link>https://hipenguin.in/post/jenkins-bitbucket-selenium/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/jenkins-bitbucket-selenium/</guid>
+      <guid>https://hipenguin.in/post/jenkins-bitbucket-selenium/</guid>
       <description>Shows you how to integrate you Jenkins CI with a Bitbucket repo, which you can use in your Selenium project</description>
     </item>
     
     <item>
       <title>Allure Reporting in Selenium using TestNG and Maven</title>
-      <link>https://sonaldwivedi.github.io/post/allure-report-selenium-testng-maven/</link>
+      <link>https://hipenguin.in/post/allure-report-selenium-testng-maven/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/allure-report-selenium-testng-maven/</guid>
+      <guid>https://hipenguin.in/post/allure-report-selenium-testng-maven/</guid>
       <description>Adding a reporting mechanism (Allure) to Selenium</description>
     </item>
     
     <item>
       <title>Karate API automation</title>
-      <link>https://sonaldwivedi.github.io/post/karate-api-automation/</link>
+      <link>https://hipenguin.in/post/karate-api-automation/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/karate-api-automation/</guid>
+      <guid>https://hipenguin.in/post/karate-api-automation/</guid>
       <description>Introduction to testing APIs through Automation, using Karate tool.</description>
     </item>
     
     <item>
       <title>How to Rerun Only Failed Testcases using TestNG</title>
-      <link>https://sonaldwivedi.github.io/post/rerun-failed-tcs/</link>
+      <link>https://hipenguin.in/post/rerun-failed-tcs/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/rerun-failed-tcs/</guid>
+      <guid>https://hipenguin.in/post/rerun-failed-tcs/</guid>
       <description>Part of the series related to writing testcases in TestNG</description>
     </item>
     
     <item>
       <title>Installation of Eclipse on Ubuntu</title>
-      <link>https://sonaldwivedi.github.io/post/installation-of-eclipse-on-ubuntu/</link>
+      <link>https://hipenguin.in/post/installation-of-eclipse-on-ubuntu/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/installation-of-eclipse-on-ubuntu/</guid>
+      <guid>https://hipenguin.in/post/installation-of-eclipse-on-ubuntu/</guid>
       <description>How are we going to install Eclipse on Ubuntu? Part of a tutorial series.</description>
     </item>
     
     <item>
       <title>Create and Read config.properties file in Java for Selenium</title>
-      <link>https://sonaldwivedi.github.io/post/create-read-configproperties-java-selenium/</link>
+      <link>https://hipenguin.in/post/create-read-configproperties-java-selenium/</link>
       <pubDate>Sun, 27 May 2018 14:04:07 +0530</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/create-read-configproperties-java-selenium/</guid>
+      <guid>https://hipenguin.in/post/create-read-configproperties-java-selenium/</guid>
       <description>Describes the process of creating and reading config.properties file</description>
     </item>
     
     <item>
       <title>Installation of JAVA on Ubuntu</title>
-      <link>https://sonaldwivedi.github.io/post/install-java-ubuntu/</link>
+      <link>https://hipenguin.in/post/install-java-ubuntu/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/install-java-ubuntu/</guid>
+      <guid>https://hipenguin.in/post/install-java-ubuntu/</guid>
       <description>Part of series teaching you setup your Selenium automation-lab on Ubuntu</description>
     </item>
     

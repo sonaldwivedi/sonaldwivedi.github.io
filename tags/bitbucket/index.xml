@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bitbucket on Sonal&#39;s Blog :tada:</title>
-    <link>https://sonaldwivedi.github.io/tags/bitbucket/</link>
+    <link>https://hipenguin.in/tags/bitbucket/</link>
     <description>Recent content in Bitbucket on Sonal&#39;s Blog :tada:</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <copyright>&amp;copy; 2022 Sonal Dwivedi</copyright>
-    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sonaldwivedi.github.io/tags/bitbucket/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2023 Sonal Dwivedi</copyright>
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hipenguin.in/tags/bitbucket/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jenkins integration with Bitbucket for Selenium project</title>
-      <link>https://sonaldwivedi.github.io/post/jenkins-bitbucket-selenium/</link>
+      <link>https://hipenguin.in/post/jenkins-bitbucket-selenium/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/jenkins-bitbucket-selenium/</guid>
+      <guid>https://hipenguin.in/post/jenkins-bitbucket-selenium/</guid>
       <description>Shows you how to integrate you Jenkins CI with a Bitbucket repo, which you can use in your Selenium project</description>
     </item>
     

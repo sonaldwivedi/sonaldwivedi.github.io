@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thread on Sonal&#39;s Blog :tada:</title>
-    <link>https://sonaldwivedi.github.io/tags/thread/</link>
+    <link>https://hipenguin.in/tags/thread/</link>
     <description>Recent content in thread on Sonal&#39;s Blog :tada:</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <copyright>&amp;copy; 2022 Sonal Dwivedi</copyright>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sonaldwivedi.github.io/tags/thread/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2023 Sonal Dwivedi</copyright>
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hipenguin.in/tags/thread/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Role of Thread.sleep in Selenium</title>
-      <link>https://sonaldwivedi.github.io/post/athread-sleep/</link>
+      <link>https://hipenguin.in/post/athread-sleep/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sonaldwivedi.github.io/post/athread-sleep/</guid>
+      <guid>https://hipenguin.in/post/athread-sleep/</guid>
       <description>This guide discusses the role of Thread Sleep Command in Selenium Java, how and when to use it effectively.</description>
     </item>
     
